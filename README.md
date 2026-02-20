@@ -36,8 +36,8 @@ node data.js
 sensor
 ```bash
 nodemon sensore.js
-server
 ```
+server
 ```bash
 nodemon server.js
 ```
